@@ -60,6 +60,7 @@
      width: 5%;
  }
 
+     /*#2 in Bloc walkthrough*/
 
  @media (max-width: 640px) and (min-width: 320px) {
      .album-view-details {
